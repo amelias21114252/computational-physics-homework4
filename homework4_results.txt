@@ -1,0 +1,38 @@
+Computational Physics Homework 4 Results
+========================================
+
+DELTA = 1.00000000e-08
+time_unit_Myr = 1.458615663739e+00
+BH_mass_solar = 1.044809682297e+08
+
+Problem 2a
+period = 4.442883604591e+00
+v_ap = 2.236067865696e-04
+min_radius = 1.000000967164e-07
+max_relative_energy_error = 2.180494197614e-05
+
+Problem 2b
+time_code = 1.075565143836e+01
+time_Myr = 1.568836166171e+01
+reached_rs = True
+
+Problem 2c
+A=1, B=0.5, B/A=0.5, time_Myr=6.8696432, reached=True
+A=1, B=1, B/A=1, time_Myr=15.688362, reached=True
+A=1, B=2, B/A=2, time_Myr=33.421393, reached=True
+A=1, B=5, B/A=5, time_Myr=87.196352, reached=True
+A=1, B=10, B/A=10, time_Myr=128.80231, reached=False
+
+Problem 2d velocity
+v0/vcirc=0.5, time_Myr=14.500863
+v0/vcirc=0.65, time_Myr=15.179536
+v0/vcirc=0.8, time_Myr=15.688362
+v0/vcirc=0.95, time_Myr=16.060445
+v0/vcirc=1, time_Myr=16.139139
+
+Problem 2d fixed ratio
+A=B=0.5, B/A=1, time_Myr=16.791817
+A=B=1, B/A=1, time_Myr=15.688362
+A=B=2, B/A=1, time_Myr=14.792489
+A=B=5, B/A=1, time_Myr=13.899224
+A=B=10, B/A=1, time_Myr=13.41475
